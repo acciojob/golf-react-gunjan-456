@@ -2,6 +2,7 @@
     width:50%;
     height:50%;
     margin: auto;
+    position:relative;
 }
 body html .root {
     height: 100%;
